@@ -10,6 +10,6 @@ Hi, I'm Alec Mariano, a ReactJS and Flutter Developer from Florianópolis - Braz
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Dart, React and Flutter (there's always room to improve); 
+- 🌱 I’m currently learning Dart, TypeScript, React and Flutter (there's always room to improve); 
 - 📫 How to reach me: alec_mariano@hotmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1pW0qpxA6Tl7kUO4VL-mgWd-g-_DCWVFL/view?usp=sharing)
