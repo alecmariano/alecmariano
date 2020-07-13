@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Alec!] 
+### Hey 👋🏽, I'm Alec!
 
 <a href="https://www.linkedin.com/in/alec-mariano-b341ba122/">
   <img align="left" alt="Alec's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Hi, I'm Alec Mariano, a ReactJS and Flutter Developer from Florianópolis - Brazil, currently, I'm a Systems Analysis and Development student at Estácio de Sá University and Consultant at [@Mobileum](https://www.mobileum.com/about/).
+Hi, I'm Alec Mariano, a ReactJS and Flutter Developer from Florianópolis - Brazil, currently, I'm a Systems Analysis and Development student at Estácio de Sá University and Consultant at [@Mobileum](https://www.mobileum.com/about/). Feel free to check out my repositories for more information about my coding skills.
   
 **Talking about Personal Stuffs:**
 
