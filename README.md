@@ -6,10 +6,10 @@
 <br />
 <br />
 
-Hi, I'm Alec Mariano, a ReactJS and Flutter Developer from Florianópolis - Brazil, currently, I'm a Systems Analysis and Development student at Estácio de Sá University and Consultant at [@Mobileum](https://www.mobileum.com/about/). Feel free to check out my repositories for more information about my coding skills.
+Hi, I'm Alec Mariano, a Node.js and Flutter Developer from Florianópolis - Brazil. I have a Systems Analysis and Development degree by Estácio de Sá University and work as Full Stack developer at [@Climatempo](https://www.climatempo.com.br). Feel free to check out my repositories or reaching me for more information about my coding skills.
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- 🌱 I’m currently learning Dart, TypeScript, React and Flutter (there's always room to improve); 
+- 🌱 I’m currently learning TypeScript, Node.js and Flutter (there's always room to improve); 
 - 📫 How to reach me: alec_mariano@hotmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1pW0qpxA6Tl7kUO4VL-mgWd-g-_DCWVFL/view?usp=sharing)
